@@ -28,3 +28,5 @@ jenkins --version
 echo "---------------------------------------"
 echo "the docker version: "
 docker --version
+
+
